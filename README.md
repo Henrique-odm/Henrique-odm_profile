@@ -23,8 +23,10 @@ Oiii! Eu sou o Henrique Andrade
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-          
+  <img align="center" alt="Rafa-CSS" height="30" width="40"<img src="https://devicon-website.vercel.app/api/mysql/original.svg"></img>
+  <img align="center" alt="Rafa-CSS" height="30" width="40"<img src="https://devicon-website.vercel.app/api/selenium/original.svg"></img>
+   <img align="center" alt="Rafa-CSS" height="30" width="40"<img src="https://devicon-website.vercel.app/api/sqlite/original.svg"></img>
+  <img align="center" alt="Rafa-CSS" height="50" width="50"<img src="https://devicon-website.vercel.app/api/django/plain-wordmark.svg?color=%23B5CE16"></img>
 </div>
 
 ##
